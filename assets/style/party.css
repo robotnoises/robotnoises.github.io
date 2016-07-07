@@ -1,0 +1,25 @@
+/* Layout */
+
+html, body {
+  background-color: #eee;
+  color: #666;
+  font-size: 16px;
+  font-family: 'Hammersmith One', sans-serif;
+}
+
+.container {
+  max-width: 800px;
+}
+
+.top-border {
+  display: block;
+  height: 5px;
+}
+
+/* Colors */
+
+.gradient {
+  background: #7b4397; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #7b4397 , #dc2430); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #7b4397 , #dc2430); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
