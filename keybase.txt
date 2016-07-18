@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/nichols
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://davidnichols.party
+  * I am nichols (https://keybase.io/nichols) on keybase.
+  * I have a public key ASCzAz6V0EutjyWEhgbckvtqzJA6paVnyOtDiuKDv5T0vgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120b3033e95d04bad8f25848606dc92fb6acc903aa5a567c8eb438ae283bf94f4be0a",
+            "host": "keybase.io",
+            "kid": "0120b3033e95d04bad8f25848606dc92fb6acc903aa5a567c8eb438ae283bf94f4be0a",
+            "uid": "2102e4b1f9c6da89831a6f4e0caec919",
+            "username": "nichols"
+        },
+        "service": {
+            "hostname": "davidnichols.party",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1468856794,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1468856761,
+        "hash": "f558c67bd1cea5353de39b569872bd072defe1e05b6959bfb6ed5b605d4847f72f8e3faab6f20f82815f8715ba451d20bc4853034886e236ab924020efa6db32",
+        "seqno": 529555
+    },
+    "prev": "39a5536a2dec8948f42a48b2192f659244d80cc4e373b7e2712390fd37cff990",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgswM+ldBLrY8lhIYG3JL7asyQOqWlZ8jrQ4rig7+U9L4Kp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjMwMzNlOTVkMDRiYWQ4ZjI1ODQ4NjA2ZGM5MmZiNmFjYzkwM2FhNWE1NjdjOGViNDM4YWUyODNiZjk0ZjRiZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjMwMzNlOTVkMDRiYWQ4ZjI1ODQ4NjA2ZGM5MmZiNmFjYzkwM2FhNWE1NjdjOGViNDM4YWUyODNiZjk0ZjRiZTBhIiwidWlkIjoiMjEwMmU0YjFmOWM2ZGE4OTgzMWE2ZjRlMGNhZWM5MTkiLCJ1c2VybmFtZSI6Im5pY2hvbHMifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRhdmlkbmljaG9scy5wYXJ0eSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE2In0sImN0aW1lIjoxNDY4ODU2Nzk0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0Njg4NTY3NjEsImhhc2giOiJmNTU4YzY3YmQxY2VhNTM1M2RlMzliNTY5ODcyYmQwNzJkZWZlMWUwNWI2OTU5YmZiNmVkNWI2MDVkNDg0N2Y3MmY4ZTNmYWFiNmYyMGY4MjgxNWY4NzE1YmE0NTFkMjBiYzQ4NTMwMzQ4ODZlMjM2YWI5MjQwMjBlZmE2ZGIzMiIsInNlcW5vIjo1Mjk1NTV9LCJwcmV2IjoiMzlhNTUzNmEyZGVjODk0OGY0MmE0OGIyMTkyZjY1OTI0NGQ4MGNjNGUzNzNiN2UyNzEyMzkwZmQzN2NmZjk5MCIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQEeZLW8G97eKpC/3T5KVkfInycvFbPGIzRuI1QwKVK1796zWVnOvO1OjDTlCBZl8TkPzY5T1jaZoXGAr6Re8qwKoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCUVjPI4MOEwioQJaWUDara5e6h43fXT9o3XkLgGDscNqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nichols
+
+==================================================================
