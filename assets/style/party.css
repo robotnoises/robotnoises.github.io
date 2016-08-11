@@ -1,7 +1,7 @@
 /* Layout */
 
 html, body {
-  background-color: #eee;
+  background-color: #fafafa;
   color: #444;
   font-size: 14px;
   /*font-family: 'Hammersmith One', sans-serif;*/
@@ -43,7 +43,7 @@ h2 a, h3 a, h4 a, h5 a, h6 a {
 a {
   color: #222;
   padding: 0 1px;
-  border-bottom: 2px solid #9b59b6;
+  border-bottom: 2px solid #f1c40f;
   padding-bottom: 2px;
   transition: background 200ms, border 200ms, color 200ms;
 }
@@ -52,13 +52,13 @@ a:hover,
 a:active,
 h3 a:hover,
 h3 a:active {
-  background-color: #9b59b6;
+  background-color: #f1c40f;
   border-bottom: 2px solid #eee;
   color: #fff;
 }
 
 h3 a {
-  border-bottom: 4px solid #9b59b6;
+  border-bottom: 4px solid #f1c40f;
   padding-bottom: 4px;
 }
 
