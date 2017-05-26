@@ -311,3 +311,19 @@ button {
 .pos-relative {
   position: relative;
 }
+
+/* Small Screens */
+
+@media (min-width: 0px) and (max-width: 1200px) {
+  .mobile-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .mobile-center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
