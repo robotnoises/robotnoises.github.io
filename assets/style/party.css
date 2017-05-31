@@ -47,6 +47,41 @@ p, li {
 
 a {
   color: #0091fe;
+  text-decoration: none;
+}
+
+a.text:hover {
+  border-bottom: 2px solid #0091fe;
+}
+
+.link-big {
+  display: block;
+  color: #fff;
+  height: 84px;
+  width: 84px;
+  border-radius: 24px;
+  text-align: center;
+  background-color: transparent;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  vertical-align: middle;
+}
+
+.link-big > i {
+  font-size: 72px;
+  line-height: 84px;
+  display: inline;
+}
+
+.link-big:hover {
+  color: #F38181;
+  background-color: #fff;
+}
+
+.link-subtle * {
+  font-size: 14px;
+  color: #ccc;
 }
 
 /* Containers */
@@ -93,7 +128,7 @@ a {
 }
 
 .card p {
-  padding: 10px 25px;
+  padding: 10px 25px 0;
 }
 
 /* Tags */
@@ -163,7 +198,6 @@ a {
 .tag-links > a {
   display: inline-block;
   margin-right: 10px;
-  font-size: 24px;
   opacity: 0.7;
   text-decoration: none;
   color: #000;
@@ -171,6 +205,14 @@ a {
 
 .tag-links > a:hover {
   opacity: 1;
+}
+
+.tag-links i {
+  font-size: 24px;
+}
+
+.fa.fa-desktop {
+  font-size: 20px;
 }
 
 /* Positioning */
@@ -184,6 +226,10 @@ a {
 
 .flex-container > div {
   align-self: center;
+}
+
+.margin-top-large {
+  margin-top: 50px;
 }
 
 .pad-large {
@@ -213,6 +259,10 @@ a {
   width: 100%;
   top: 50%;
   transform: translateY(-50%);
+}
+
+.block-centered-vertical h3 {
+  margin-top: 0;
 }
 
 /* Images */
@@ -321,9 +371,12 @@ button {
     margin-left: auto;
   }
 
-  .mobile-center {
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
+  .mobile-wide {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .pad-large {
+    padding: 25px;
   }
 }
